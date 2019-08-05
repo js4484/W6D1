@@ -72,4 +72,6 @@ p kpf.find_path([7, 6]) # => [[0, 0], [1, 2], [2, 4], [3, 6], [5, 5], [7, 6]]
 p kpf.find_path([6, 2]) # => [[0, 0], [1, 2], [2, 0], [4, 1], [6, 2]]
 
 
-# alias gitguest="git config --local user.email guest_email@aol.com && git config --local user.name Guest_Name"
+alias githost="git config --local user.email js4484@columbia.edu && git config --local user.name js4484"
+
+# alias gitguest="git config --local user.email joshhk72@gmail.com && git config --local user.name joshhk72"
