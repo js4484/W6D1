@@ -12,7 +12,7 @@ class KnightPathFinder
     [2, -1],
     [-2, 1],
     [-2, -1]
-    ].to_set
+    ].shuffle.to_set
 
     attr_accessor :root_node
 
